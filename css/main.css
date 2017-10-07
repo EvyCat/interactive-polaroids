@@ -28,22 +28,22 @@ html {
 }
 
 .polaroid:first-child {
-  left: 30%;
-  top: 20%;
-  transform: rotate(-5deg);
+  left: 200px;
+  top: 100px;
+  transform: rotate(-12deg);
 }
 
 .polaroid:nth-child(2) {
-  left: 40%;
-  top: 30%;
+  left: 298px;
+  top: 160px;
   z-index: 3;
   transform: rotate(5deg);
 }
 
 .polaroid:last-child {
-  left: 50%;
-  top: 20%;
-  transform: rotate(30deg);
+  left: 395px;
+  top: 111px;
+  transform: rotate(32deg);
 }
 
 .polaroid:hover:first-child {
