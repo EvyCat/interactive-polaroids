@@ -49,14 +49,17 @@ html {
 .polaroid:hover:first-child {
   transform: rotate(0deg);
   z-index: 1000;
+  box-shadow: 1px 8px 15px rgba(0, 0, 0, 1);
 }
 
 .polaroid:hover:nth-child(2) {
   transform: rotate(0deg);
   z-index: 1000;
+  box-shadow: 1px 8px 15px rgba(0, 0, 0, 1);
 }
 
 .polaroid:hover:last-child {
   transform: rotate(0deg);
   z-index: 1000;
+  box-shadow: 1px 8px 15px rgba(0, 0, 0, 1);
 }
